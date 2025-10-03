@@ -1,0 +1,21 @@
+body{
+    font-family: 'segoe ui', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100vh;
+    background-color:#f0f0f0;
+    margin:0;
+    padding:0;
+}
+.apple-container{
+    width:600px;
+    height:380px;
+    background-color:#5d5b5b;
+    border-radius:16px;
+}
+input{
+    outline:none;
+    margin:18px 0 0 18px;
+    
+}
