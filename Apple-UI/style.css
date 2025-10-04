@@ -13,9 +13,12 @@ body{
     height:380px;
     background-color:#5d5b5b;
     border-radius:16px;
+    box-shadow: 0 4px 8px 0 rgba(93, 91, 91, 0.5);
+}
+.button-container{
+    display:flex;
+    justify-content: space-between;
 }
 input{
-    outline:none;
-    margin:18px 0 0 18px;
-    
+    margin: 12px 0 0 12px;
 }
